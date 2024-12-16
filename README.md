@@ -20,7 +20,6 @@ These are the functionality performed by the project:
 - Login for admin.
 - Edit information of admin.
 - Logout functionality.
-- Dashboard for admin user.
 - Manage booking
 
       * Adding new booking
